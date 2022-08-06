@@ -47,7 +47,7 @@ sh drun.sh
 ```
 
 #### Results
-<img src="imgs/result.png" align="center"></img>
+<img src="imgs/result.png" width="480" height="360" align="center"></img>
 
 ## LICENSE
 The license used is MIT.
